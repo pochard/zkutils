@@ -21,7 +21,6 @@ Import it in your program as:
 package main
 
 import (
-	"cms/zkutils"
 	"fmt"
 	"github.com/pochard/zkutils"
 	"github.com/samuel/go-zookeeper/zk"
